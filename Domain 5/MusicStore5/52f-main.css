@@ -38,7 +38,7 @@ a:visited {
     color:#808080;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: double;
     font-weight: bold;
     font-family: 'Palatino Linotype','Times New Roman', serif;
 }
