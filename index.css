@@ -1,0 +1,21 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  float:right;
+
+  }
+header{
+  width:400px; 
+  border: 2px solid black;
+  height:175px;
+  padding-left: 30px;
+  padding-top: 30px;
+  align-content: flex-end;
+  
+  
+}
